@@ -1,1 +1,1 @@
-#  Istalador de GStreamer
+#  Instalador de GStreamer
